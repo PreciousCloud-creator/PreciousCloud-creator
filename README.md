@@ -31,7 +31,7 @@ Welcome to my digital infrastructure workshop! I am a disciplined, analytical ca
 ## 📬 Connect & Collaborate With Me!
 I share my daily breakthroughs, configuration milestones, and the real-world grit of being a parenting tech-student out in the open on LinkedIn. 
 
-- 💼 **LinkedIn:** [Insert Your LinkedIn Profile Link Here]
+- 💼 **LinkedIn:** https://www.linkedin.com/in/precious-nnanyere
 - 🎙️ **Open To:** Remote Technical Support, Help Desk, Junior Cloud Support Associate roles, and Tech Ambassadorships.
 
 *"Slow progress is still progress. Building the future, one mobile commit at a time."*
