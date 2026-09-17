@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Precious Nnanyere | Cloud & DevOps Builder ☁️
 
-<!--
-**PreciousCloud-creator/PreciousCloud-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my digital infrastructure workshop! I am a disciplined, analytical career-switcher transforming into a Multi-Cloud Engineer. Because I balance my technical training with raising my baby, consistency, absolute focus, and sharp time management are my superpowers. 🇳🇬
 
-Here are some ideas to get you started:
+🚀 **My Unique Edge:** I don't wait for perfect conditions to solve problems. I am currently learning, coding, and deploying cloud architecture environments **entirely from my mobile phone screen.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🗺️ My 6-Month Technical Roadmap Tracker
+- [x] **Month 1:** Linux Terminal Administration & Networking Core (Built via Mobile Codespaces) ⏳ *[Current Phase]*
+- [ ] **Month 2:** AWS Core Services & Infrastructure Architecture (AWS Skill Builder)
+- [ ] **Month 3:** AWS Cloud Practitioner Certification (CLF-C02) Preparation
+- [ ] **Month 4:** Microsoft Azure Fundamentals (AZ-900) & Multi-Cloud Pivot
+- [ ] **Month 5:** The Cloud Resume Challenge (Live Multi-Cloud Deployment)
+- [ ] **Month 6:** CI/CD Automation & Early-Career Tech Support Outreach
+
+---
+
+## 🛠️ Mobile Tech Stack Under Development
+- **Cloud Providers:** AWS (Skill Builder Module 5 completed) | Microsoft Azure (MS Learn)
+- **Core Infrastructure:** Linux CLI | Bash Automation Scripting | Core Networking (TCP/IP, DNS, Subnetting)
+- **Environments Used:** GitHub Codespaces | Mobile Browser Execution Terminal
+
+---
+
+## 📁 Featured Mobile Lab Projects
+*   **[Linux & Cloud Scripts](https://github.com):** An automated system diagnostic script (`backup_and_check.sh`) built and executed on a remote Linux server container to audit directory security and log network pathways.
+
+---
+
+## 📬 Connect & Collaborate With Me!
+I share my daily breakthroughs, configuration milestones, and the real-world grit of being a parenting tech-student out in the open on LinkedIn. 
+
+- 💼 **LinkedIn:** [Insert Your LinkedIn Profile Link Here]
+- 🎙️ **Open To:** Remote Technical Support, Help Desk, Junior Cloud Support Associate roles, and Tech Ambassadorships.
+
+*"Slow progress is still progress. Building the future, one mobile commit at a time."*
